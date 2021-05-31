@@ -17,6 +17,12 @@ body {
     padding-top: 20px;
 }
 
+.post-image{    
+    width: 50px;
+    height: 30px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
 
 .main {
     padding: 0px 10px;
