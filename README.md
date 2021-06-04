@@ -13,3 +13,10 @@
 >Python
 
 >Django
+
+## Installation and setup locally
+## Pre-requisites
+- Python3
+- Virtual environment
+- bootstrap5
+- django, pillow, psycopg2, cloudinary 
