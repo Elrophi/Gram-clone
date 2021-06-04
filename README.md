@@ -24,7 +24,7 @@
 ## Cloning and opening on compiler
 #### On your terminal run
 
-    $ git clone https://github.com/Elrophi/Awards.git
+    $ git clone https://github.com/Elrophi/Gram-clone
     $ cd gallery
     $ code .
 
