@@ -41,4 +41,4 @@
 ---
 
 ## Copyright and License
-[MIT License](https://github.com/Elrophi/Awards/blob/master/LICENSE)  
+[MIT License](https://github.com/Elrophi/Gram-clone/blob/master/LICENSE)  
